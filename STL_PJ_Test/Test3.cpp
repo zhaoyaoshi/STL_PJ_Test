@@ -1,3 +1,4 @@
 #include<iostream>
+<<<<<<< HEAD
 int main12();
-int main4();
+>>>>>>> Test3
