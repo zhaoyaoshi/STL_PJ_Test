@@ -24,6 +24,9 @@
     <ClCompile Include="deque.h">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="Test3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="list.h">
